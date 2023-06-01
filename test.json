@@ -32,5 +32,16 @@
             "zipcode": "94101"
         },
     }
+     {
+        "name": "Manish Kumar",
+        "age": 29,
+        "email": "manishkumar@example.com",
+        "address": {
+            "street": "456 Elm Street",
+            "city": "San Francisco",
+            "state": "CA",
+            "zipcode": "94101"
+        },
+    }
 ]
 
