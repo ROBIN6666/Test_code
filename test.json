@@ -50,8 +50,8 @@
         "address": {
             "street": "456 Elm Street",
             "city": "San Francisco",
-            "state": "CA",
-            "zipcode": "94101"
+            "state": "CAM",
+            "zipcode": "94101322"
         },
     }
 ]
