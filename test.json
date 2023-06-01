@@ -1,0 +1,36 @@
+[
+    {
+        "name": "John Doe",
+        "age": 30,
+        "email": "johndoe@example.com",
+        "address": {
+            "street": "123 Main Street",
+            "city": "New York",
+            "state": "NY",
+            "zipcode": "10001"
+        }
+    },
+    {
+        "name": "Jane Smith",
+        "age": 25,
+        "email": "janesmith@example.com",
+        "address": {
+            "street": "456 Elm Street",
+            "city": "San Francisco",
+            "state": "CA",
+            "zipcode": "94101"
+        }
+    },
+    {
+        "name": "Rahul Kumar",
+        "age": 25,
+        "email": "rahulkumar@example.com",
+        "address": {
+            "street": "456 Elm Street",
+            "city": "San Francisco",
+            "state": "CA",
+            "zipcode": "94101"
+        },
+    }
+]
+
